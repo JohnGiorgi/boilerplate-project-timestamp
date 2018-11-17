@@ -1,7 +1,8 @@
 {
-	"name": "fcc-api-projects-boilerplate",
-	"version": "0.0.1",
-	"description": "An FCC Backend Challenge",
+	"name": "timestamp-microservice",
+	"version": "0.1.0",
+	"description": "Submission for the Timestamp Microservice project on FCC",
+	"author": "John Giorgi",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
